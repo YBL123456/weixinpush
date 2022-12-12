@@ -1,0 +1,23 @@
+XXX，早安！
+
+美丽的XXX小可爱 ( ´͈ ᵕ `͈ )爱你哟！
+
+ʕ•̫͡•ʕ*̫͡* 因为有你，又是元气满满的一天✧⁺⸜(˙▾˙)⸝⁺✧
+
+{{first.DATA}} 
+
+城市：{{keyword1.DATA}} 
+今天天气：{{keyword2.DATA}} 
+最低气温：{{keyword3.DATA}} 
+最高气温：{{keyword4.DATA}}
+舒适指数：{{keyword10.DATA}}
+穿衣指南：{{keyword9.DATA}}
+
+今天是我们XXX的第{{keyword5.DATA}}天
+距离XXX的生日还有{{keyword6.DATA}}天
+距离XXX生日还有{{keyword7.DATA}} 天
+
+每日寄言：{{keyword8.DATA}} 
+{{remark.DATA}}
+想你的每一天！  —— XXXX
+ʕ•̫͡•ʔ•̫͡•ཻʕ•̫͡•ʔ•͓͡•ʔʕ•̫͡•ʔ•̫͡•ཻʕ•̫͡•ʔ•͓͡•ʔʕ•̫͡•ʔ•̫͡•ཻʕ•̫͡•ʔ•͓͡•ʔ
